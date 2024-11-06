@@ -1,6 +1,6 @@
 {
   "name": "pouzz-questions",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Mad libs style random question generator. To be used for Pouzz.xyz",
   "main": "./lib/index.js",
   "type": "module",
